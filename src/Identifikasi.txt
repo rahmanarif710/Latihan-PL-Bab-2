@@ -1,0 +1,4 @@
+Class = Mahasiswa dan Lapangan
+Object = A, B, C dan Lari
+Atribut = jarak,waktu,putaran,nama,nim dan panjang,lebar
+Method = hitungJarak, hitungWaktu dan hitungKeliling
